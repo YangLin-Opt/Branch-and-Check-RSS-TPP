@@ -1,4 +1,4 @@
-# Branch-and-Check-RSS-TPP
+# Branch-and-Check-for-RSS-TPP
 
 An LBBD method to integrate rolling stock scheduling and train platforming plan
 
